@@ -1,0 +1,12 @@
+{
+    "development": {
+        "config_id": "development",
+        "userPath": "/etc/passwd",
+        "groupPath": "/etc/group"
+    },
+    "testing": {
+        "config_id": "testing",
+        "userPath": "/home/ubuntu/workspace/pro/test/passwd",
+        "groupPath": "/home/ubuntu/workspace/pro/test/group"
+    }
+}
